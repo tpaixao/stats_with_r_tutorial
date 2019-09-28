@@ -3,9 +3,9 @@
 <p class="mb-0">
 "[...] skepticism has its place. Statisticians are paid to be skeptics; they are the conscience of science.”
 		</p>
-    <footer class="blockquote-footer">by <cite>
-― Judea Pearl, [The Book of Why: The New Science of Cause and Effect]
-</cite></footer>
+    <footer class="blockquote-footer">
+― Judea Pearl, The Book of Why: The New Science of Cause and Effect
+</footer>
 </blockquote>
 
 These notebooks are meant as an introduction to R and basic statistics. The notebooks themselves are executable so that you can try out the code, change it and adapt it to your needs. There are extensive notes on both the coding aspects and the theory of statistics behind it. 
