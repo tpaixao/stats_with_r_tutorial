@@ -1,4 +1,6 @@
-# A simple introduction to statistics and R
+<p class="font-weight-bold display-2">
+A simple introduction to statistics and R
+</p>
 
 These notebooks are meant as an introduction to R and basic statistics. The notebooks themselves are executable so that you can try out the code, change it and adapt it to your needs. There are extensive notes on both the coding aspects and the theory of statistics behind it. 
 
