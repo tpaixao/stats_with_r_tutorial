@@ -1,6 +1,3 @@
-<p class="font-weight-bold display-2">
-A simple introduction to statistics and R
-</p>
 
 <blockquote class="blockquote">
 <p class="mb-0">
