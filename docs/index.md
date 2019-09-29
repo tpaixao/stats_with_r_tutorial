@@ -14,7 +14,7 @@ These notebooks are meant as an introduction to R and basic statistics. The note
 
 These notes are based on the course organized by me and Jorge Carneiro at [IGC](http://qobweb.igc.gulbenkian.pt/courses/sqbibb2019/). This is a work-in-progress and will be updated on a regular basis.
 
-# Basic of R
+# Basics of R
 
 ## Basics of programming in R
 
