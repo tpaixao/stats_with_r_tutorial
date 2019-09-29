@@ -14,7 +14,7 @@ These notebooks are meant as an introduction to R and basic statistics. The note
 
 These notes are based on the course organized by me and Jorge Carneiro at [IGC](http://qobweb.igc.gulbenkian.pt/courses/sqbibb2019/). This is a work-in-progress and will be updated on a regular basis.
 
-# Lectures
+# Basic of R
 
 ## Basics of programming in R
 
@@ -34,9 +34,17 @@ This notebook shows an example of how to generate a script that can be run on yo
 
 You can launch the notebook by clicking here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tpaixao/stats_with_r_tutorial.git/master?filepath=notebooks/Project_Organization.ipynb).
 
+# Basics of Stats with R
+
 ## The Central Limit Theorem
 
 This notebook discusses and illustrates the Central Limit Theorem and how to use it to calculate confidence intervals for the mean.
 
 You can launch the notebook by clicking here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tpaixao/stats_with_r_tutorial.git/master?filepath=notebooks/CentralLimitTheorem.ipynb).
+
+## Hypothesis testing
+
+This notebook discusses and illustrates the basics of hypothesis testing. We also calculate the power of particular tests and illustrate how to calculate sample sizes to be able to reliably detect a particular effect.
+
+You can launch the notebook by clicking here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tpaixao/stats_with_r_tutorial.git/master?filepath=notebooks/HypothesisTesting.ipynb).
 
